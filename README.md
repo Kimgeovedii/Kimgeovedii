@@ -6,18 +6,18 @@
 ---
 
 <div align="center">
-  <p>A dedicated <strong>Software Engineer</strong> with a strong focus on modern, responsive, and user-friendly front-end development using <strong>React.js</strong> and <strong>Next.js</strong>. [cite_start]I am also experienced in full-stack development with <strong>Laravel</strong> and <strong>Node.js</strong>[cite: 12].</p>
+  <p>A dedicated <strong>Software Engineer</strong> with a strong focus on modern, responsive, and user-friendly front-end development using <strong>React.js</strong> and <strong>Next.js</strong>. I am also experienced in full-stack development with <strong>Laravel</strong> and <strong>Node.js</strong>.</p>
 </div>
 
 ---
 
 ### 💻 About Me
 
-[cite_start]My work spans from building user interfaces to integrating back-end systems, with a focus on creating reusable components and writing clean code[cite: 11]. [cite_start]I am also skilled in DevOps practices, including CI/CD and Docker, as well as server and GitHub repository management to support an efficient and structured development process[cite: 12].
+My work spans from building user interfaces to integrating back-end systems, with a focus on creating reusable components and writing clean code. I am also skilled in DevOps practices, including CI/CD and Docker, as well as server and GitHub repository management to support an efficient and structured development process.
 
-[cite_start]I have a proven track record of migrating systems from manual spreadsheets to API-based databases (MySQL) and developing data-driven dashboards using Looker Studio to support business decisions[cite: 13, 23, 24]. [cite_start]My expertise also includes implementing **IT Governance based on COBIT 2019** to ensure system security and compliance[cite: 14, 25].
+I have a proven track record of migrating systems from manual spreadsheets to API-based databases (MySQL) and developing data-driven dashboards using Looker Studio to support business decisions. My expertise also includes implementing **IT Governance based on COBIT 2019** to ensure system security and compliance.
 
-[cite_start]I believe that my blend of technical skills, comprehensive system understanding, and a keen eye for user experience allows me to be an adaptive, collaborative, and solution-oriented Software Engineer[cite: 15].
+I believe that my blend of technical skills, comprehensive system understanding, and a keen eye for user experience allows me to be an adaptive, collaborative, and solution-oriented Software Engineer.
 
 ---
 
@@ -41,11 +41,16 @@ Here are a few highlights from my work:
 -   **Dashboard Monitoring Pendapatan FixAsset:** A data visualization system to monitor revenue from fixed assets, integrated with Google Maps to show the geographical distribution of company assets.
 -   **Aplikasi Peminjaman Barang dan Ruangan:** A digital system for managing item and room loans, which centralized the process and improved efficiency and transparency.
 -   **Machine Learning Model for Palm Oil Plantation Productivity Prediction:** A predictive model using Linear Regression that achieved 98% accuracy in forecasting palm oil productivity based on factors like rainfall and humidity.
+-   **Dashboard Human Resource Development:** This dashboard monitors and analyzes human resource development programs, helping management make more informed decisions through interactive data visualization.
+-   **Digitalisasi Slip Gaji (Eslip By LPP Agro Nusantara):** A project to digitize employee payslips by integrating with the company's SAP ERP, automating the process, and ensuring secure distribution via email and an internal SuperApp.
+-   **KMS (Knowledge Management System):** A system developed to manage, store, and share knowledge within the company, helping employees access information easily to improve their skills and support better decision-making.
 
 ---
 
 ### 🔗 Get In Touch
 
--   [cite_start]**Website:** [kimgeovedi-porto.vercel.app](https://kimgeovedi-porto.vercel.app) [cite: 8]
--   [cite_start]**LinkedIn:** [Mohamad Mustofa Hakim](https://www.linkedin.com/in/mohamad-mustofa-hakim/) [cite: 8]
--   [cite_start]**Email:** mohamadmustofahakim@gmail.com [cite: 8]
+-   **Website:** [kimgeovedi-porto.vercel.app](https://kimgeovedi-porto.vercel.app)
+-   **LinkedIn:** [Mohamad Mustofa Hakim](https://www.linkedin.com/in/mohamad-mustofa-hakim/)
+-   **Email:** mohamadmustofahakim@gmail.com
+
+Silakan coba salin kode di atas. Saya yakin ini akan berhasil dengan benar.
