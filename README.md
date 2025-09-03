@@ -25,7 +25,7 @@ I believe that my blend of technical skills, comprehensive system understanding,
 
 | Category | Skills |
 |:---:|:---:|
-| **Front-End Development** | ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![Blade](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)<br>![Vite.js](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
+| **Front-End Development** | ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![Blade](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)<br>![Vite.js](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
 | **Back-End Development** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **DevOps & Infrastructure** | ![CI/CD](https://img.shields.io/badge/CI/CD-black?style=for-the-badge)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Server Configuration](https://img.shields.io/badge/Server%20Configuration-orange?style=for-the-badge)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
@@ -52,5 +52,3 @@ Here are a few highlights from my work:
 -   **Website:** [kimgeovedi-porto.vercel.app](https://kimgeovedi-porto.vercel.app)
 -   **LinkedIn:** [Mohamad Mustofa Hakim](https://www.linkedin.com/in/mohamad-mustofa-hakim/)
 -   **Email:** mohamadmustofahakim@gmail.com
-
-Silakan coba salin kode di atas. Saya yakin ini akan berhasil dengan benar.
