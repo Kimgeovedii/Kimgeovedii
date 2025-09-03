@@ -6,18 +6,18 @@
 ---
 
 <div align="center">
-  <p>A dedicated <strong>Software Engineer</strong> with a strong focus on modern, responsive, and user-friendly front-end development using <strong>React.js</strong> and <strong>Next.js</strong>. I am also experienced in full-stack development with <strong>Laravel</strong> and <strong>Node.js</strong>.</p>
+  <p>A dedicated <strong>Software Engineer</strong> with a strong focus on modern, responsive, and user-friendly front-end development using <strong>React.js</strong> and <strong>Next.js</strong>. [cite_start]I am also experienced in full-stack development with <strong>Laravel</strong> and <strong>Node.js</strong>[cite: 12].</p>
 </div>
 
 ---
 
 ### 💻 About Me
 
-My work spans from building user interfaces to integrating back-end systems, with a focus on creating reusable components and writing clean code. I am also skilled in DevOps practices, including CI/CD and Docker, as well as server and GitHub repository management.
+[cite_start]My work spans from building user interfaces to integrating back-end systems, with a focus on creating reusable components and writing clean code[cite: 11]. [cite_start]I am also skilled in DevOps practices, including CI/CD and Docker, as well as server and GitHub repository management to support an efficient and structured development process[cite: 12].
 
-I have a proven track record of migrating systems from manual spreadsheets to API-based databases (MySQL) and developing data-driven dashboards using Looker Studio to support business decisions. My expertise also includes implementing **IT Governance based on COBIT 2019** to ensure system security and compliance.
+[cite_start]I have a proven track record of migrating systems from manual spreadsheets to API-based databases (MySQL) and developing data-driven dashboards using Looker Studio to support business decisions[cite: 13, 23, 24]. [cite_start]My expertise also includes implementing **IT Governance based on COBIT 2019** to ensure system security and compliance[cite: 14, 25].
 
-I believe that my blend of technical skills, comprehensive system understanding, and a keen eye for user experience allows me to be an adaptive, collaborative, and solution-oriented Software Engineer.
+[cite_start]I believe that my blend of technical skills, comprehensive system understanding, and a keen eye for user experience allows me to be an adaptive, collaborative, and solution-oriented Software Engineer[cite: 15].
 
 ---
 
@@ -26,8 +26,8 @@ I believe that my blend of technical skills, comprehensive system understanding,
 | Category | Skills |
 |:---:|:---:|
 | **Front-End Development** | ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![Blade](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)<br>![Vite.js](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
-| **Back-End Development** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)<br> |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)|
+| **Back-End Development** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **DevOps & Infrastructure** | ![CI/CD](https://img.shields.io/badge/CI/CD-black?style=for-the-badge)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Server Configuration](https://img.shields.io/badge/Server%20Configuration-orange?style=for-the-badge)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | **Data Analytics** | ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-blue?style=for-the-badge)<br>![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) |
 | **IT Governance & Others** | ![COBIT 2019](https://img.shields.io/badge/COBIT%202019-2A2A72?style=for-the-badge)<br>![IT Security](https://img.shields.io/badge/IT%20Security-purple?style=for-the-badge)<br>![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-red?style=for-the-badge) |
@@ -46,6 +46,6 @@ Here are a few highlights from my work:
 
 ### 🔗 Get In Touch
 
--   **Website:** [kimgeovedi-porto.vercel.app](https://kimgeovedi-porto.vercel.app)
--   **LinkedIn:** [Mohamad Mustofa Hakim](https://www.linkedin.com/in/mohamad-mustofa-hakim/)
--   **Email:** mohamadmustofahakim@gmail.com
+-   [cite_start]**Website:** [kimgeovedi-porto.vercel.app](https://kimgeovedi-porto.vercel.app) [cite: 8]
+-   [cite_start]**LinkedIn:** [Mohamad Mustofa Hakim](https://www.linkedin.com/in/mohamad-mustofa-hakim/) [cite: 8]
+-   [cite_start]**Email:** mohamadmustofahakim@gmail.com [cite: 8]
