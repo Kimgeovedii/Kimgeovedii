@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <p>A dedicated <strong>Software Engineer</strong> with a strong focus on modern, responsive, and user-friendly front-end development using <strong>React.js</strong> and <strong>Next.js</strong>. I am also experienced in full-stack development with <strong>Laravel</strong> and <strong>Node.js</strong>.</p>
+  <p>A dedicated <strong>Software Engineer</strong> with a strong focus on modern, responsive, and user-friendly front-end development using <strong>React.js</strong>. I am also experienced in full-stack development with <strong>Laravel</strong>.</p>
 </div>
 
 ---
